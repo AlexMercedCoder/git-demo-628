@@ -1,0 +1,2 @@
+function toLowerCase() {}
+function toUpperCase() {}
